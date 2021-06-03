@@ -11,15 +11,15 @@ méthodes d'apprentissages statistiques afin de prédire l'équipe gagnante des 
 de determiner la performance des algorithmes d'prrentissages statistiques vue dans le cadre de ce cours pour prédire le résultat des matchs de la NBA.
 
 Pour ce faire, le rapport est divisé comme suit:
-  1- Extraction et traitement des données
-  2- Présentation des données
-  3- Étude de correlation
-  4- Algorithme d'apprentissage
-    4.1 Méthode KNN
-    4.2 Modèle de regression logistique
-    4.3 Modèle LDA et QDA
-    4.4 Méthode Ridge
-    4.5 Méthode Lasso
-    4.6 Méthode XGboost
-    4.7 SVM lineaire
-    4.8 Réseaux de Neurone
+  * Extraction et traitement des données
+  * Présentation des données
+  * Étude de correlation
+  * Algorithme d'apprentissage
+    * Méthode KNN
+    * Modèle de regression logistique
+    * Modèle LDA et QDA
+    * Méthode Ridge
+    * Méthode Lasso
+    * Méthode XGboost
+    * SVM lineaire
+    * Réseaux de Neurone
